@@ -21,6 +21,10 @@ no computer around. The Mac app sets up iPhones on iOS 18 to 26 and is the big s
 This repository only holds the built releases. The source code is private. More about StealthPin is at
 [stealthpin.com](https://stealthpin.com).
 
+## See it in 25 seconds
+
+<a href="https://youtu.be/Bb8wwyA3Ruo"><img src="assets/video.jpg" alt="StealthPin, where do you want to be today? Watch the 25-second video on YouTube" width="100%"></a>
+
 ## What it does
 
 - Set your iPhone's location anywhere on the map, or to a saved bookmark or favorite.
