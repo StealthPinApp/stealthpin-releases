@@ -1,5 +1,17 @@
 <p align="center"><img src="assets/banner.webp" alt="StealthPin: be somewhere else. macOS + iOS" width="100%"></p>
 
+<p align="center">
+  <a href="https://github.com/StealthPinApp/stealthpin-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/StealthPinApp/stealthpin-releases?label=release&color=4c86ff"></a>
+  <a href="https://github.com/StealthPinApp/stealthpin-releases/releases/latest"><img alt="Release date" src="https://img.shields.io/github/release-date/StealthPinApp/stealthpin-releases?label=released&color=4c86ff"></a>
+  <a href="https://github.com/StealthPinApp/stealthpin-releases/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/StealthPinApp/stealthpin-releases/total?color=4c86ff"></a>
+  <br>
+  <img alt="iOS 18 or later" src="https://img.shields.io/badge/iOS-18%2B-0f1317?logo=apple&logoColor=white">
+  <img alt="macOS 15 or later" src="https://img.shields.io/badge/macOS-15%2B-0f1317?logo=apple&logoColor=white">
+  <img alt="Notarized by Apple" src="https://img.shields.io/badge/Mac_app-notarized-0f1317?logo=apple&logoColor=white">
+  <a href="https://stealthpin.com/docs/free-and-open"><img alt="License GPL-3.0" src="https://img.shields.io/badge/license-GPL--3.0-0f1317"></a>
+  <a href="https://stealthpin.com"><img alt="stealthpin.com" src="https://img.shields.io/badge/web-stealthpin.com-4c86ff"></a>
+</p>
+
 # StealthPin
 
 StealthPin changes where your iPhone appears in Find My, Maps and every other app. Since 0.2.0 the
